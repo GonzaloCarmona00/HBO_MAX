@@ -1,0 +1,79 @@
+#Logo {
+    background-image: url(LogoConDerechos.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    font-size: 0%;
+    text-indent: -99999px;
+    overflow: hidden;
+    display: inline-block;
+    width: 150px;
+    height: 30px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+header {
+    height: 50px;
+    background-color: #030328;
+    padding: 0px;
+}
+
+body {
+    background-color: #030328;
+}
+
+nav {
+    float: right;
+    margin-top: 0px;
+    padding-right: 25px;
+}
+
+nav ul {
+    width: 615px;
+    margin: auto;
+}
+
+nav ul li {
+    list-style-type: none;
+    width: 150px;
+    background-color: #b535f6;
+    margin-bottom: 5px;
+    display: inline-block;
+    border-radius: 5%;
+}
+
+nav ul li a {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding: 10px;
+}
+
+#RickyMorty{
+    background-image: url(RickYMorty.png);
+    height: 600px;
+    width: 1900px;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+}
+
+#RickyMorty h2{
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 520px;
+}
+
+#RickyMorty p {
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 5px;
+}
